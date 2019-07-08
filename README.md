@@ -30,5 +30,30 @@
 * Modify the `style.css` file to ensure that each web page has a _cool style_.
 
 
+## Part 6 - Refactor your Table
+* Refactor your tables to use `div` tags rather than `table`, `tr`, and `td` tags.
+
+#### Sample Refactor
+
+##### Using `table`, `tr`, and `td` tags
+
+```html
+<table>
+    <tr>
+        <td>
+        </td>
+    </tr>
+</table>
+```
+
+
+##### Using `div` tags
+
+```html
+<div class="row">
+  <div class="column"></div>
+</div>
+```
+
 
 
