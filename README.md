@@ -9,10 +9,10 @@
 
 ## Part 2 - Demonstrate Feature Familiarity
 * Each `.html` file in this project has a title which describes the intended feature to be implemented.
-    * `my-definition-list.html` file should have a [definition list]() using the `<dl></dl>` tags
-    * `my-ordered-list.html` file should have an [ordered list]() using the `<ol></ol>` tags
-    * `my-unordered-list.html` file should have an [unordered list]() using the `<ul></ul>` tags
-    * `my-column-of-rows.html` file should have a [table of columns of several rows]() using the `<table><td><tr></tr></td></table>` tags
+    * `my-definition-list.html` file should have a [definition list](https://www.w3schools.com/tags/tag_dl.asp) using the `<dl><dt></dt><dd></dd></dl>` tags
+    * `my-ordered-list.html` file should have an [ordered list](https://www.w3schools.com/tags/tag_ol.asp) using the `<ol><li></li></ol>` tags
+    * `my-unordered-list.html` file should have an [unordered list](https://www.w3schools.com/tags/tag_ul.asp) using the `<ul><li></li></ul>` tags
+    * `my-column-of-rows.html` file should have a [table of columns of several rows](https://www.w3schools.com/tags/tag_tr.asp) using the `<table><tr><td></td></tr></table>` tags
     * `my-row-of-columns.html` file should have a [table of rows of several columns]() using the `<table><tr><td></td></tr></table>` tags
 
 ## Part 3 - Creating navigation
