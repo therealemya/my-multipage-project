@@ -4,7 +4,9 @@
 * Purpose - To recap on learned material
 
 ## Part 1 - Clone the project
-* Begin by cloning this project into the `~/dev` directory.
+* Begin by _forking_ this project into a personal repository.
+* Navigate to your github profile to find the _newly forked repository_.
+* Clone the repository from **your account** into the `~/dev` directory.
 * Open the newly cloned project in a code editor (Visual Studio Code, for example).
 
 ## Part 2 - Demonstrate Feature Familiarity
