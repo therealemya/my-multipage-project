@@ -23,17 +23,41 @@
     * `my-ordered-list.html` file should have an [ordered list](https://www.w3schools.com/tags/tag_ol.asp) using the following format
 
     ```HTML
-    <ol>
-        <li>
+    <ol> <!-- ordered list -->
+        <li> <!-- list item-->
         </li>
     </ol>
     ```
 
 
 
-    * `my-unordered-list.html` file should have an [unordered list](https://www.w3schools.com/tags/tag_ul.asp) using the `<ul><li></li></ul>` tags
-    * `my-column-of-rows.html` file should have a [table of columns of several rows](https://www.w3schools.com/tags/tag_tr.asp) using the `<table><tr><td></td></tr></table>` tags
-    * `my-row-of-columns.html` file should have a [table of rows of several columns]() using the `<table><tr><td></td></tr></table>` tags
+    * `my-unordered-list.html` file should have an [unordered list](https://www.w3schools.com/tags/tag_ul.asp) using the following format
+
+    ```HTML
+    <ul> <!-- unordered list -->
+        <li></li> <!-- list item -->
+    </ul>
+    ```
+
+    * `my-column-of-rows.html` file should have a [table of columns of several rows](https://www.w3schools.com/tags/tag_tr.asp) using the following format
+
+    ```HTML
+    <table> <!-- table -->
+        <tr> <!-- table row-->
+            <td> <!-- table data -->
+            </td>
+        </tr>
+    </table>
+    ```
+
+    * `my-row-of-columns.html` file should have a [table of rows of several columns]() using the following format
+
+    ```HTML
+    <table> <!-- table-->
+        <tr> <!-- table row -->
+        </tr>
+    </table>
+    ```
 
 ## Part 3 - Creating navigation
 * Ensure that there is a _navigation path_ that makes it possible to view each of the pages.
